@@ -25,6 +25,6 @@ public class Exercise5 {
 
         System.out.print("\n");
         System.out.printf("%.2f", averageGrade);
-        System.out.println("%");
+        System.out.println("%")
     }
 }

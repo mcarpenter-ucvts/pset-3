@@ -14,7 +14,7 @@ public class Exercise4 {
 
         double totalperimiter= 2*heightr + 2*widthr;
         System.out.printf("%,.2f", totalperimiter);
-        System.out.println(" centimeters");
+        System.out.println(" centimeters")
     }
 
 }

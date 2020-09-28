@@ -18,7 +18,7 @@ public class Exercise9 {
         int maxPennies = (int)((amountTotal-amountTotal % 0.01)/0.01);
 
         System.out.printf("\n");
-        System.out.printf("Quarters : " + maxQuarters + "\nDimes    : " + maxDimes + "\nNickels  : " + maxNickels + "\nPennies  : " + maxPennies)
+        System.out.printf("Quarters : " + maxQuarters + "\nDimes    : " + maxDimes + "\nNickels  : " + maxNickels + "\nPennies  : " + maxPennies);
 
     }
 }

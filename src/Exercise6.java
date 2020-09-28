@@ -30,7 +30,7 @@ public class Exercise6 {
         double grossPay = wage * (hrsMon + hrsTue +hrsWed +hrsThu +hrsFri +hrsSat +hrsSun);
         System.out.print("\n$");
         System.out.printf("%.2f", grossPay);
-        System.out.println(".")
+        System.out.println(".");
     }
 
 }

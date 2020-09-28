@@ -18,7 +18,7 @@ public class Exercise7 {
         double finalPay = sal * (1-k/100) * (1-(fed +state)/100) /24;
         System.out.print("\n$");
         System.out.printf("%,.2f", finalPay);
-        System.out.println(".")
+        System.out.println(".");
     }
 
 }

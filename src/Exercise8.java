@@ -17,6 +17,6 @@ public class Exercise8 {
 
         System.out.printf("\n");
         System.out.print("Buses required      : " + busNum);
-        System.out.print("\nOverflow passengers : " + busOverflow)
+        System.out.print("\nOverflow passengers : " + busOverflow);
     }
 }

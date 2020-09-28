@@ -12,7 +12,7 @@ public class Exercise10 {
 
         System.out.printf("\n");
         System.out.printf("Celsius    : %,.2f", cDegrees);
-        System.out.printf("\nKelvin     : %,.2f", kDegrees )
+        System.out.printf("\nKelvin     : %,.2f", kDegrees );
 
     }
 }
